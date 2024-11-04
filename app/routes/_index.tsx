@@ -93,7 +93,7 @@ const resources = [
     ),
   },
   {
-    href: "https://link-app.rayhon1014.workers.dev/https://www.amazon.com/dp/B001VIWHMY",
+    href: "https://link-app.rayhon1014.workers.dev/https://www.amazon.com/dp/B07S2TDDCK",
     text: "Prefix Amazon Link",
     icon: (
       <svg
