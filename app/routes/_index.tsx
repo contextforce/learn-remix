@@ -112,7 +112,7 @@ const resources = [
     ),
   },
   {
-    href: "https://www.amazon.com/dp/B001VIWHMY",
+    href: "https://www.amazon.com/dp/B002LBLFCS",
     text: "Plain Amazon Link",
     icon: (
       <svg
